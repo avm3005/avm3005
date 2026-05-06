@@ -3,7 +3,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-<p align="left">I'm Archit Vishal Mishra from Surat, India. <br><br>- 🔭 I’m studying Computer Engineering <br>- 📚 I'm currently learning Python for machine learning<br>- ⚡ In my free time I do nothing :) will not fake it for the show</p>
+<p align="left">I'm Archit Vishal Mishra (detaroxz) from Surat, India. <br><br>- 🔭 I’m studying Computer Engineering <br>- 📚 I'm currently learning Python for machine learning<br>- ⚡ In my free time I do nothing :) will not fake it for the show</p>
 
 ###
 
